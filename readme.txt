@@ -1,0 +1,1 @@
+Тренировочный проект для работы с Git. - A training project for work with GIT.
