@@ -1,1 +1,1 @@
-1. Пройти пару уроков по ГИТ. - Take a couple of lessons on GIT.
+1. Пройти пару тем по ГИТ. - Take a couple of topic on GIT.
