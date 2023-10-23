@@ -1,21 +1,21 @@
-#__Этот проект для изучения GIT__   
+# __Этот проект для изучения GIT__   
 
-##Основные команды GIT:  
+## Основные команды GIT:  
 
-1.```bash 
-git init
-```    
-2.```bash 
-git add
+1. ```  
+git init  
 ```  
-3.  ```bash 
-git commit -m
+2. ```  
+git add  
 ```  
-4.  ```bash 
-git remote add
+3. ```  
+git commit -m  
 ```  
-5.   ```bash 
-git push origin main
+4. ```  
+git remote add  
+```  
+5. ```  
+git push origin main  
 ```  
 
 *Эта информация получена из курса [Яндекс.Практикум](https://www.yandex.ru "Yandex.Практикум")*
